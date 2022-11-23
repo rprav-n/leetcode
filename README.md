@@ -18,4 +18,4 @@
 
 # License
 
-This library is distributed unde [MIT License](https://github.com/rprav-n/leetcode/blob/main/LICENSE.md)
+This repo is distributed under [MIT License](https://github.com/rprav-n/leetcode/blob/main/LICENSE.md)
