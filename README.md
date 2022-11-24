@@ -14,7 +14,7 @@
 | \#  | Title  | Solution | Difficulty
 | :------------ |:---------------:| :-----|  :-----|
 | 1     | [Two Sum](https://leetcode.com/problems/two-sum) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Two%20Sum/main.go) |  Easy |
-| 2     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Two%20Sum/main.go) |  Easy |
+| 2     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Remove%20Duplicates%20from%20Sorted%20Array/main.go) |  Easy |
 
 
 # License
