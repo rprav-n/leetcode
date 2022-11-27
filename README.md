@@ -16,6 +16,8 @@
 | 1     | [Two Sum](https://leetcode.com/problems/two-sum) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Two%20Sum/main.go) |  Easy |
 | 2     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Remove%20Duplicates%20from%20Sorted%20Array/main.go) |  Easy |
 | 3     | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Running%20Sum%20of%201d%20Array/main.go) |  Easy |
+| 4     | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/main.go) |  Easy |
+| 5     | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Shuffle%20the%20Array/main.go) |  Easy |
 
 
 # License
