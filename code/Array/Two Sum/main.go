@@ -1,4 +1,3 @@
-
 // Author 		: Praveen
 // Date   		: 23/11/2022
 // Question 	: https://leetcode.com/problems/two-sum/
