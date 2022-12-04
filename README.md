@@ -20,6 +20,7 @@
 | 5     | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Shuffle%20the%20Array/main.go) |  Easy |
 | 6     | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Richest%20Customer%20Wealth/main.go) |  Easy |
 | 7     | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Good%20Pairs/main.go) |  Easy |
+| 8     | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) |  [Go](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/854566652/) |  Easy |
 
 
 # License
