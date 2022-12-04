@@ -19,6 +19,7 @@
 | 4     | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/main.go) |  Easy |
 | 5     | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Shuffle%20the%20Array/main.go) |  Easy |
 | 6     | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Richest%20Customer%20Wealth/main.go) |  Easy |
+| 7     | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Good%20Pairs/main.go) |  Easy |
 
 
 # License
