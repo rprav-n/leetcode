@@ -22,6 +22,7 @@
 | 7     | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Good%20Pairs/main.go) |  Easy |
 | 8     | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) |  [Go](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/854566652/) |  Easy |
 | 9     | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |  [Go](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/855137070/) |  Easy |
+| 10     | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/main.go) |  Easy |
 
 
 # License
