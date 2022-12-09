@@ -24,8 +24,8 @@
 | 9     | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/main.go) |  Easy |
 | 10     | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/main.go) |  Easy |
 | 11     | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Decode%20XORed%20Array/main.go) |  Easy |
-| 11     | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Decompress%20Run-Length%20Encoded%20List/main.go) |  Easy |
-| 12     | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Create%20Target%20Array%20in%20the%20Given%20Order/main.go) |  Easy |
+| 12     | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Decompress%20Run-Length%20Encoded%20List/main.go) |  Easy |
+| 13     | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Create%20Target%20Array%20in%20the%20Given%20Order/main.go) |  Easy |
 
 
 # License
