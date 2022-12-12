@@ -27,6 +27,7 @@
 | 12     | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Decompress%20Run-Length%20Encoded%20List/main.go) |  Easy |
 | 13     | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Create%20Target%20Array%20in%20the%20Given%20Order/main.go) |  Easy |
 | 14     | [Shuffle String](https://leetcode.com/problems/shuffle-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Shuffle%20String/main.go) |  Easy |
+| 15     | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Items%20Matching%20a%20Rule/main.go) |  Easy |
 
 
 # License
