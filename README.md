@@ -29,6 +29,7 @@
 | 14     | [Shuffle String](https://leetcode.com/problems/shuffle-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Shuffle%20String/main.go) |  Easy |
 | 15     | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Items%20Matching%20a%20Rule/main.go) |  Easy |
 | 16     | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Arithmetic%20Triplets/main.go) |  Easy |
+| 17     | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/main.go) |  Easy |
 
 
 # License
