@@ -31,6 +31,7 @@
 | 16     | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Arithmetic%20Triplets/main.go) |  Easy |
 | 17     | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/main.go) |  Easy |
 | 18     | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Truncate%20Sentence/main.go) |  Easy |
+| 19     | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20the%20Number%20of%20Consistent%20Strings/main.go) |  Easy |
 
 
 # License
