@@ -33,6 +33,7 @@
 | 18     | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Truncate%20Sentence/main.go) |  Easy |
 | 19     | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20the%20Number%20of%20Consistent%20Strings/main.go) |  Easy |
 | 20    | [Sort the People](https://leetcode.com/problems/sort-the-people/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20the%20People/main.go) |  Easy |
+| 21    | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/main.go) |  Easy |
 
 
 # License
