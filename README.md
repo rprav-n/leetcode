@@ -34,6 +34,7 @@
 | 19     | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20the%20Number%20of%20Consistent%20Strings/main.go) |  Easy |
 | 20    | [Sort the People](https://leetcode.com/problems/sort-the-people/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20the%20People/main.go) |  Easy |
 | 21    | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Product%20Difference%20Between%20Two%20Pairs/main.go) |  Easy |
+| 22    | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Delete%20Greatest%20Value%20in%20Each%20Row/main.go) |  Easy |
 
 
 # License
