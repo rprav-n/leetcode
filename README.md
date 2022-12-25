@@ -37,6 +37,7 @@
 | 22    | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Delete%20Greatest%20Value%20in%20Each%20Row/main.go) |  Easy |
 | 23    | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Good%20Triplets/main.go) |  Easy |
 | 24    | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Unique%20Morse%20Code%20Words/main.go) |  Easy |
+| 25    | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) |  [Go](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/submissions/865104473/) |  Easy |
 
 
 # License
