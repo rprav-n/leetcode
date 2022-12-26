@@ -42,6 +42,7 @@
 | 27    | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Matrix%20Diagonal%20Sum/main.go) |  Easy |
 | 28    | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20the%20Highest%20Altitude/main.go) |  Easy |
 | 29    | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20First%20Palindromic%20String%20in%20the%20Array/main.go) |  Easy |
+| 30    | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/main.go) |  Easy |
 
 
 # License
