@@ -38,6 +38,7 @@
 | 23    | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Good%20Triplets/main.go) |  Easy |
 | 24    | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Unique%20Morse%20Code%20Words/main.go) |  Easy |
 | 25    | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) |  [Go](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/submissions/865104473/) |  Easy |
+| 26    | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/main.go) |  Easy |
 
 
 # License
