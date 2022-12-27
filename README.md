@@ -50,7 +50,10 @@
 | 35    | [Array Partition](https://leetcode.com/problems/array-partition/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Array%20Partition/main.go) |  Easy |
 | 36    | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Number%20of%20Pairs%20in%20Array/main.go) |  Easy |
 | 37    | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Target%20Indices%20After%20Sorting%20Array/main.go) |  Easy |
-| 38    | []() |  [Go]() |  Easy |
+| 38    | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/main.go) |  Easy |
+| 39    | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sum%20of%20Unique%20Elements/main.go) |  Easy |
+| 40    | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Array%20By%20Parity/main.go) |  Easy |
+| 41    | []() |  [Go]() |  Easy |
 
 
 
