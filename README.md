@@ -47,7 +47,8 @@
 | 32    | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/main.go) |  Easy |
 | 33    | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/counting-words-with-a-given-prefix) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Counting%20Words%20With%20a%20Given%20Prefix/main.go) |  Easy |
 | 34    | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/main.go) |  Easy |
-| 35    | []() |  [Go]() |  Easy |
+| 35    | [Array Partition](https://leetcode.com/problems/array-partition/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Array%20Partition/main.go) |  Easy |
+| 36    | []() |  [Go]() |  Easy |
 
 
 
