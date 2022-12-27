@@ -43,6 +43,12 @@
 | 28    | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20the%20Highest%20Altitude/main.go) |  Easy |
 | 29    | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20First%20Palindromic%20String%20in%20the%20Array/main.go) |  Easy |
 | 30    | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/main.go) |  Easy |
+| 31    | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/main.go) |  Easy |
+| 32    | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/main.go) |  Easy |
+| 33    | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/counting-words-with-a-given-prefix) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Counting%20Words%20With%20a%20Given%20Prefix/main.go) |  Easy |
+| 34    | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/main.go) |  Easy |
+| 35    | []() |  [Go]() |  Easy |
+
 
 
 # License
