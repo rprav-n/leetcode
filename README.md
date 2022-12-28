@@ -60,7 +60,10 @@
 | 45    | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Divide%20Array%20Into%20Equal%20Pairs/main.go) |  Easy |
 | 46    | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/main.go) |  Easy |
 | 47    | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Units%20on%20a%20Truck/main.go) |  Easy |
-| 48    | []() |  [Go]() |  Easy |
+| 48    | [Baseball Game](https://leetcode.com/problems/baseball-game/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Baseball%20Game/main.go) |  Easy |
+| 49    | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Unique%20Number%20of%20Occurrences/main.go) |  Easy |
+| 50    | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Prefixes%20of%20a%20Given%20String/main.go) |  Easy |
+| 51    | []() |  [Go]() |  Easy |
 
 
 
