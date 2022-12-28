@@ -58,7 +58,9 @@
 | 43    | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/main.go) |  Easy |
 | 44    | [Height Checker](https://leetcode.com/problems/height-checker/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Height%20Checker/main.go) |  Easy |
 | 45    | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Divide%20Array%20Into%20Equal%20Pairs/main.go) |  Easy |
-| 46    | []() |  [Go]() |  Easy |
+| 46    | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/main.go) |  Easy |
+| 47    | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Units%20on%20a%20Truck/main.go) |  Easy |
+| 48    | []() |  [Go]() |  Easy |
 
 
 
