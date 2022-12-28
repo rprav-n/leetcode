@@ -55,7 +55,8 @@
 | 40    | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Array%20By%20Parity/main.go) |  Easy |
 | 41    | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/main.go) |  Easy |
 | 42    | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Merge%20Similar%20Items/main.go) |  Easy |
-| 43    | []() |  [Go]() |  Easy |
+| 43    | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/main.go) |  Easy |
+| 44    | []() |  [Go]() |  Easy |
 
 
 
