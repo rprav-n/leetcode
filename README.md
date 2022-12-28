@@ -53,7 +53,9 @@
 | 38    | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/main.go) |  Easy |
 | 39    | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sum%20of%20Unique%20Elements/main.go) |  Easy |
 | 40    | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Array%20By%20Parity/main.go) |  Easy |
-| 41    | []() |  [Go]() |  Easy |
+| 41    | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/main.go) |  Easy |
+| 42    | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Merge%20Similar%20Items/main.go) |  Easy |
+| 43    | []() |  [Go]() |  Easy |
 
 
 
