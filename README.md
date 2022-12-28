@@ -57,7 +57,8 @@
 | 42    | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Merge%20Similar%20Items/main.go) |  Easy |
 | 43    | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/main.go) |  Easy |
 | 44    | [Height Checker](https://leetcode.com/problems/height-checker/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Height%20Checker/main.go) |  Easy |
-| 45    | []() |  [Go]() |  Easy |
+| 45    | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Divide%20Array%20Into%20Equal%20Pairs/main.go) |  Easy |
+| 46    | []() |  [Go]() |  Easy |
 
 
 
