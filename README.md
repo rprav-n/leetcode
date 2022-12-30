@@ -68,7 +68,9 @@
 | 53    | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/main.go) |  Easy |
 | 54    | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Longest%20Subsequence%20With%20Limited%20Sum/main.go) |  Easy |
 | 55    | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/The%20K%20Weakest%20Rows%20in%20a%20Matrix/main.go) |  Easy |
-| 56    | []() |  [Go]() |  Easy |
+| 56    | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays/main.go) |  Easy |
+| 57    | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Subsequence%20in%20Non-Increasing%20Order/main.go) |  Easy |
+| 58    | []() |  [Go]() |  Easy |
 
 
 
