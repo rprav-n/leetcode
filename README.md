@@ -65,7 +65,10 @@
 | 50    | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Prefixes%20of%20a%20Given%20String/main.go) |  Easy |
 | 51    | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Keep%20Multiplying%20Found%20Values%20by%20Two/main.go) |  Easy |
 | 52    | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Two%20Out%20of%20Three/main.go) |  Easy |
-| 53    | []() |  [Go]() |  Easy |
+| 53    | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/main.go) |  Easy |
+| 54    | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Longest%20Subsequence%20With%20Limited%20Sum/main.go) |  Easy |
+| 55    | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/The%20K%20Weakest%20Rows%20in%20a%20Matrix/main.go) |  Easy |
+| 56    | []() |  [Go]() |  Easy |
 
 
 
