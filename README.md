@@ -71,7 +71,9 @@
 | 56    | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays/main.go) |  Easy |
 | 57    | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Subsequence%20in%20Non-Increasing%20Order/main.go) |  Easy |
 | 58    | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Squares%20of%20a%20Sorted%20Array/main.go) |  Easy |
-| 59    | []() |  [Go]() |  Easy |
+| 59    | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Kth%20Distinct%20String%20in%20an%20Array/main.go) |  Easy |
+| 60    | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Value%20of%20a%20String%20in%20an%20Array/main.go) |  Easy |
+| 61    | []() |  [Go]() |  Easy |
 
 
 
