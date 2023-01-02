@@ -76,7 +76,10 @@
 | 61    | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Shortest%20Distance%20to%20a%20Character/main.go) |  Easy |
 | 62    | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Next%20Greater%20Element%20I/main.go) |  Easy |
 | 63    | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Smallest%20Index%20With%20Equal%20Value/main.go) |  Easy |
-| 64    | []() |  [Go]() |  Easy |
+| 64    | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Check%20Distances%20Between%20Same%20Letters/main.go) |  Easy |
+| 65    | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Intersection%20of%20Two%20Arrays/main.go) |  Easy |
+| 66    | []() |  [Go]() |  Easy |
+
 
 
 
