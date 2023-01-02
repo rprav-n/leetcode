@@ -73,7 +73,10 @@
 | 58    | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Squares%20of%20a%20Sorted%20Array/main.go) |  Easy |
 | 59    | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Kth%20Distinct%20String%20in%20an%20Array/main.go) |  Easy |
 | 60    | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Value%20of%20a%20String%20in%20an%20Array/main.go) |  Easy |
-| 61    | []() |  [Go]() |  Easy |
+| 61    | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Shortest%20Distance%20to%20a%20Character/main.go) |  Easy |
+| 62    | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Next%20Greater%20Element%20I/main.go) |  Easy |
+| 63    | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Smallest%20Index%20With%20Equal%20Value/main.go) |  Easy |
+| 64    | []() |  [Go]() |  Easy |
 
 
 
