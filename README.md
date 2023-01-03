@@ -78,7 +78,8 @@
 | 63    | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Smallest%20Index%20With%20Equal%20Value/main.go) |  Easy |
 | 64    | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Check%20Distances%20Between%20Same%20Letters/main.go) |  Easy |
 | 65    | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Intersection%20of%20Two%20Arrays/main.go) |  Easy |
-| 66    | []() |  [Go]() |  Easy |
+| 66    | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Lucky%20Numbers%20in%20a%20Matrix/main.go) |  Easy |
+| 67    | []() |  [Go]() |  Easy |
 
 
 
