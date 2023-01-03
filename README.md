@@ -79,7 +79,11 @@
 | 64    | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Check%20Distances%20Between%20Same%20Letters/main.go) |  Easy |
 | 65    | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Intersection%20of%20Two%20Arrays/main.go) |  Easy |
 | 66    | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Lucky%20Numbers%20in%20a%20Matrix/main.go) |  Easy |
-| 67    | []() |  [Go]() |  Easy |
+| 67    | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Unequal%20Triplets%20in%20Array/main.go) |  Easy |
+| 68    | [Single Number](https://leetcode.com/problems/single-number/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Single%20Number/main.go) |  Easy |
+| 69    | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) |  [Go](https://github.com/rprav-n/leetcode/tree/main/code/Array/Find%20the%20Difference%20of%20Two%20Arrays) |  Easy |
+| 70    | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Absolute%20Difference/main.go) |  Easy |
+| 71    | []() |  [Go]() |  Easy |
 
 
 
