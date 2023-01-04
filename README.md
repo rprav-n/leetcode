@@ -83,7 +83,10 @@
 | 68    | [Single Number](https://leetcode.com/problems/single-number/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Single%20Number/main.go) |  Easy |
 | 69    | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) |  [Go](https://github.com/rprav-n/leetcode/tree/main/code/Array/Find%20the%20Difference%20of%20Two%20Arrays) |  Easy |
 | 70    | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Absolute%20Difference/main.go) |  Easy |
-| 71    | []() |  [Go]() |  Easy |
+| 71    | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Pairs%20Of%20Similar%20Strings/main.go) |  Easy |
+| 72    | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Keyboard%20Row/main.go) |  Easy |
+| 73    | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Intersection%20of%20Multiple%20Arrays/main.go) |  Easy |
+| 74    | []() |  [Go]() |  Easy |
 
 
 
