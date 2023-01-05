@@ -87,7 +87,8 @@
 | 72    | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Keyboard%20Row/main.go) |  Easy |
 | 73    | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Intersection%20of%20Multiple%20Arrays/main.go) |  Easy |
 | 74    | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Array%20by%20Increasing%20Frequency/main.go) |  Easy |
-| 75    | []() |  [Go]() |  Easy |
+| 75    | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Common%20Characters/main.go) |  Easy |
+| 76    | []() |  [Go]() |  Easy |
 
 
 
