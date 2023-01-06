@@ -88,7 +88,8 @@
 | 73    | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Intersection%20of%20Multiple%20Arrays/main.go) |  Easy |
 | 74    | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Array%20by%20Increasing%20Frequency/main.go) |  Easy |
 | 75    | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Common%20Characters/main.go) |  Easy |
-| 76    | []() |  [Go]() |  Easy |
+| 76    | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Students%20Unable%20to%20Eat%20Lunch/main.go) |  Easy |
+| 77    | []() |  [Go]() |  Easy |
 
 
 
