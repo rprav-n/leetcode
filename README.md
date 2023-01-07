@@ -91,7 +91,9 @@
 | 76    | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Students%20Unable%20to%20Eat%20Lunch/main.go) |  Easy |
 | 77    | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Available%20Captures%20for%20Rook/main.go) |  Easy |
 | 78    | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Can%20Make%20Arithmetic%20Progression%20From%20Sequence/main.go) |  Easy |
-| 79    | []() |  [Go]() |  Easy |
+| 79    | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Smallest%20Range%20I/main.go) |  Easy |
+| 80    | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/main.go) |  Easy |
+| 81    | []() |  [Go]() |  Easy |
 
 
 
