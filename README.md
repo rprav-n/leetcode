@@ -89,7 +89,9 @@
 | 74    | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Array%20by%20Increasing%20Frequency/main.go) |  Easy |
 | 75    | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Common%20Characters/main.go) |  Easy |
 | 76    | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Students%20Unable%20to%20Eat%20Lunch/main.go) |  Easy |
-| 77    | []() |  [Go]() |  Easy |
+| 77    | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Available%20Captures%20for%20Rook/main.go) |  Easy |
+| 78    | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Can%20Make%20Arithmetic%20Progression%20From%20Sequence/main.go) |  Easy |
+| 79    | []() |  [Go]() |  Easy |
 
 
 
