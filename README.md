@@ -93,7 +93,9 @@
 | 78    | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Can%20Make%20Arithmetic%20Progression%20From%20Sequence/main.go) |  Easy |
 | 79    | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Smallest%20Range%20I/main.go) |  Easy |
 | 80    | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/main.go) |  Easy |
-| 81    | []() |  [Go]() |  Easy |
+| 81    | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) |  [Go](https://github.com/rprav-n/leetcode/tree/main/code/Array/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative) |  Easy |
+| 82    | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/main.go) |  Easy |
+| 83    | []() |  [Go]() |  Easy |
 
 
 
