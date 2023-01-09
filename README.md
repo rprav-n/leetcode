@@ -96,7 +96,8 @@
 | 81    | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) |  [Go](https://github.com/rprav-n/leetcode/tree/main/code/Array/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative) |  Easy |
 | 82    | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/main.go) |  Easy |
 | 83    | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20the%20Middle%20Index%20in%20Array/main.go) |  Easy |
-| 84    | []() |  [Go]() |  Easy |
+| 84    | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Unique%20Email%20Addresses/main.go) |  Easy |
+| 85    | []() |  [Go]() |  Easy |
 
 
 
