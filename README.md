@@ -97,7 +97,8 @@
 | 82    | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/main.go) |  Easy |
 | 83    | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20the%20Middle%20Index%20in%20Array/main.go) |  Easy |
 | 84    | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Unique%20Email%20Addresses/main.go) |  Easy |
-| 85    | []() |  [Go]() |  Easy |
+| 85    | [Two Furthest Houses With Different Colors]() |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Two%20Furthest%20Houses%20With%20Different%20Colors/main.go) |  Easy |
+| 86    | []() |  [Go]() |  Easy |
 
 
 
