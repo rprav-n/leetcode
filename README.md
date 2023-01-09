@@ -95,7 +95,8 @@
 | 80    | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/main.go) |  Easy |
 | 81    | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) |  [Go](https://github.com/rprav-n/leetcode/tree/main/code/Array/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative) |  Easy |
 | 82    | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/main.go) |  Easy |
-| 83    | []() |  [Go]() |  Easy |
+| 83    | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20the%20Middle%20Index%20in%20Array/main.go) |  Easy |
+| 84    | []() |  [Go]() |  Easy |
 
 
 
