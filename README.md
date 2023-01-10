@@ -99,7 +99,8 @@
 | 84    | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Unique%20Email%20Addresses/main.go) |  Easy |
 | 85    | [Two Furthest Houses With Different Colors]() |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Two%20Furthest%20Houses%20With%20Different%20Colors/main.go) |  Easy |
 | 86    | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Apply%20Operations%20to%20an%20Array/main.go) |  Easy |
-| 87    | []() |  [Go]() |  Easy |
+| 87    | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Lines%20To%20Write%20String/main.go) |  Easy |
+| 88    | []() |  [Go]() |  Easy |
 
 
 
