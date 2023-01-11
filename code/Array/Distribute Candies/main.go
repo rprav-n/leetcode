@@ -1,7 +1,7 @@
 // Author 		: Praveen
 // Date   		: 11/01/2023
 // Question 	: https://leetcode.com/problems/distribute-candies/
-// Submission 	:
+// Submission 	: https://leetcode.com/problems/distribute-candies/submissions/876204192/
 
 /*
 	Question:
