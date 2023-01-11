@@ -101,7 +101,9 @@
 | 86    | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Apply%20Operations%20to%20an%20Array/main.go) |  Easy |
 | 87    | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Lines%20To%20Write%20String/main.go) |  Easy |
 | 88    | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Distribute%20Candies/main.go) |  Easy |
-| 88    | []() |  [Go]() |  Easy |
+| 89    | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Even%20and%20Odd%20Indices%20Independently/main.go) |  Easy |
+| 90    | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sign%20of%20the%20Product%20of%20an%20Array/main.go) |  Easy |
+| 91    | []() |  [Go]() |  Easy |
 
 
 
