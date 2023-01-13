@@ -105,7 +105,8 @@
 | 90    | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sign%20of%20the%20Product%20of%20an%20Array/main.go) |  Easy |
 | 91    | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Mean%20of%20Array%20After%20Removing%20Some%20Elements/main.go) |  Easy |
 | 92    | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Last%20Stone%20Weight/main.go) |  Easy |
-| 93    | []() |  [Go]() |  Easy |
+| 93    | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/String%20Matching%20in%20an%20Array/main.go) |  Easy |
+| 94    | []() |  [Go]() |  Easy |
 
 
 
