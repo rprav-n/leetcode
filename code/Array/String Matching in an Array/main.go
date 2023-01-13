@@ -1,7 +1,7 @@
 // Author 		: Praveen
 // Date   		: 13/01/2023
 // Question 	: https://leetcode.com/problems/string-matching-in-an-array/
-// Submission 	:
+// Submission 	: https://github.com/rprav-n/leetcode/blob/main/code/Array/String%20Matching%20in%20an%20Array/main.go
 
 /*
 	Question:
