@@ -107,7 +107,8 @@
 | 92    | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Last%20Stone%20Weight/main.go) |  Easy |
 | 93    | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/String%20Matching%20in%20an%20Array/main.go) |  Easy |
 | 94    | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Lucky%20Integer%20in%20an%20Array/main.go) |  Easy |
-| 95    | []() |  [Go]() |  Easy |
+| 95    | [Min Max Game](https://leetcode.com/problems/min-max-game/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Min%20Max%20Game/main.go) |  Easy |
+| 96    | []() |  [Go]() |  Easy |
 
 
 
