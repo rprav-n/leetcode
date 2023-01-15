@@ -110,7 +110,8 @@
 | 95    | [Min Max Game](https://leetcode.com/problems/min-max-game/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Min%20Max%20Game/main.go) |  Easy |
 | 96    | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Three%20Consecutive%20Odds/main.go) |  Easy |
 | 97    | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Ascending%20Subarray%20Sum/main.go) |  Easy |
-| 98    | []() |  [Go]() |  Easy |
+| 98    | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Defuse%20the%20Bomb/main.go) |  Easy |
+| 99    | []() |  [Go]() |  Easy |
 
 
 
