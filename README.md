@@ -109,7 +109,8 @@
 | 94    | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Lucky%20Integer%20in%20an%20Array/main.go) |  Easy |
 | 95    | [Min Max Game](https://leetcode.com/problems/min-max-game/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Min%20Max%20Game/main.go) |  Easy |
 | 96    | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Three%20Consecutive%20Odds/main.go) |  Easy |
-| 97    | []() |  [Go]() |  Easy |
+| 97    | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Ascending%20Subarray%20Sum/main.go) |  Easy |
+| 98    | []() |  [Go]() |  Easy |
 
 
 
