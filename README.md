@@ -112,7 +112,8 @@
 | 97    | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Ascending%20Subarray%20Sum/main.go) |  Easy |
 | 98    | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Defuse%20the%20Bomb/main.go) |  Easy |
 | 99    | [Missing Number](https://leetcode.com/problems/missing-number/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Missing%20Number/main.go) |  Easy |
-| 100    | []() |  [Go]() |  Easy |
+| 100    | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Time%20Needed%20to%20Buy%20Tickets/main.go) |  Easy |
+| 101    | []() |  [Go]() |  Easy |
 
 
 
