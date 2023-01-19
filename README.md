@@ -114,7 +114,8 @@
 | 99    | [Missing Number](https://leetcode.com/problems/missing-number/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Missing%20Number/main.go) |  Easy |
 | 100    | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Time%20Needed%20to%20Buy%20Tickets/main.go) |  Easy |
 | 101    | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/main.go) |  Easy |
-| 102    | []() |  [Go]() |  Easy |
+| 102    | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/main.go) |  Easy |
+| 103    | []() |  [Go]() |  Easy |
 
 
 
