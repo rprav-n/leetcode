@@ -116,7 +116,8 @@
 | 101    | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/main.go) |  Easy |
 | 102    | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/main.go) |  Easy |
 | 103    | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Relative%20Ranks/main.go) |  Easy |
-| 104    | []() |  [Go]() |  Easy |
+| 104    | [Slowest Key](https://leetcode.com/problems/slowest-key/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Slowest%20Key/main.go) |  Easy |
+| 105    | []() |  [Go]() |  Easy |
 
 
 
