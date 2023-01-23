@@ -1,7 +1,7 @@
 // Author 		: Praveen
 // Date   		: 14/12/2022
 // Question 	: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
-// Submission 	:
+// Submission 	: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/883872749/
 
 /*
 	Question:
@@ -41,55 +41,40 @@ package main
 import "fmt"
 
 func main() {
-	arr := []int{1, 4, 2, 5, 3}
+	arr := []int{1, 2}
 	fmt.Println(sumOddLengthSubarrays(arr))
 }
 
 func sumOddLengthSubarrays(arr []int) int {
 	var sum int
-	var largestOddLenOfArr int
+
 	l := len(arr)
-
-	if l%2 == 0 {
-		largestOddLenOfArr = l - 1
-	} else {
-		largestOddLenOfArr = l
+	possibleOdds := []int{}
+	for i := 0; i <= l; i++ {
+		if i%2 != 0 {
+			possibleOdds = append(possibleOdds, i)
+		}
 	}
 
-	for _, n := range arr {
-		sum += n
-	}
-
-	if l%2 != 0 {
-		sum += sum
-	}
-
-	for largestOddLenOfArr > 0 {
-
-		for i := 0; i < l; i++ {
-			var s, nl int
-			if i < largestOddLenOfArr {
-				s = getSumOf(arr[i:largestOddLenOfArr])
-				nl = len(arr[i:largestOddLenOfArr])
-			}
-			fmt.Println(i, largestOddLenOfArr, arr[i:largestOddLenOfArr])
-			if nl%2 != 0 && s%2 != 0 {
-				sum += s
+	for _, n := range possibleOdds {
+		for i := 0; i <= l-n; i++ {
+			a := arr[i : n+i]
+			if len(arr) == 1 {
+				sum += a[0]
+			} else {
+				sum += sumOf(a)
 			}
 		}
-
-		largestOddLenOfArr -= 2
 	}
-
-	// fmt.Println(sum)
 
 	return sum
 }
 
-func getSumOf(arr []int) int {
-	var s int
+func sumOf(arr []int) int {
+	var sum = 0
 	for _, n := range arr {
-		s += n
+		sum += n
 	}
-	return s
+
+	return sum
 }
