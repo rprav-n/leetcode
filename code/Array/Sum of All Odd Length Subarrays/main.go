@@ -41,12 +41,12 @@ package main
 import "fmt"
 
 func main() {
-	arr := []int{1, 2}
+	arr := []int{10, 11, 12}
 	fmt.Println(sumOddLengthSubarrays(arr))
 }
 
 func sumOddLengthSubarrays(arr []int) int {
-	var sum int
+	var mainSum int
 
 	l := len(arr)
 	possibleOdds := []int{}
@@ -57,24 +57,38 @@ func sumOddLengthSubarrays(arr []int) int {
 	}
 
 	for _, n := range possibleOdds {
-		for i := 0; i <= l-n; i++ {
+		sum := 0
+		// SLIDING WINDOW
+		for i := 0; i < n; i++ {
+			sum += arr[i]
+		}
+		fmt.Println(sum)
+		oldSum := sum
+		for j := n; j < l; j++ {
+			oldSum = oldSum - arr[j-n] + arr[j]
+			sum += oldSum
+		}
+		mainSum += sum
+
+		// Naive solution
+		/* for i := 0; i <= l-n; i++ {
 			a := arr[i : n+i]
 			if len(arr) == 1 {
 				sum += a[0]
 			} else {
 				sum += sumOf(a)
 			}
-		}
+		} */
 	}
 
-	return sum
+	return mainSum
 }
 
-func sumOf(arr []int) int {
+/* func sumOf(arr []int) int {
 	var sum = 0
 	for _, n := range arr {
 		sum += n
 	}
 
 	return sum
-}
+} */
