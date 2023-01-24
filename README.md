@@ -120,7 +120,9 @@
 | 105    | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Greatest%20Common%20Divisor%20of%20Array/main.go) |  Easy |
 | 106    | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/main.go) |  Easy |
 | 107    | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Design%20an%20Ordered%20Stream/main.go) |  Easy |
-| 108    | []() |  [Go]() |  Easy |
+| 108    | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/main.go) |  Easy |
+| 109    | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Flipping%20an%20Image/main.go) |  Easy |
+| 110    | []() |  [Go]() |  Easy |
 
 
 
