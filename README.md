@@ -123,7 +123,8 @@
 | 108    | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/main.go) |  Easy |
 | 109    | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Flipping%20an%20Image/main.go) |  Easy |
 | 110    | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Cells%20with%20Odd%20Values%20in%20a%20Matrix/main.go) |  Easy |
-| 111    | []() |  [Go]() |  Easy |
+| 111    | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/main.go) |  Easy |
+| 112    | []() |  [Go]() |  Easy |
 
 
 
