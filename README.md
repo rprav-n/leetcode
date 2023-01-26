@@ -126,7 +126,8 @@
 | 111    | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/main.go) |  Easy |
 | 112    | [DI String Match](https://leetcode.com/problems/di-string-match/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/DI%20String%20Match/main.go) |  Easy |
 | 113    | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Delete%20Columns%20to%20Make%20Sorted/main.go) |  Easy |
-| 114    | []() |  [Go]() |  Easy |
+| 114    | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Integers%20by%20The%20Number%20of%201%20Bits/main.go) |  Easy |
+| 115    | []() |  [Go]() |  Easy |
 
 
 
