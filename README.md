@@ -124,7 +124,9 @@
 | 109    | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Flipping%20an%20Image/main.go) |  Easy |
 | 110    | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Cells%20with%20Odd%20Values%20in%20a%20Matrix/main.go) |  Easy |
 | 111    | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/main.go) |  Easy |
-| 112    | []() |  [Go]() |  Easy |
+| 112    | [DI String Match](https://leetcode.com/problems/di-string-match/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/DI%20String%20Match/main.go) |  Easy |
+| 113    | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Delete%20Columns%20to%20Make%20Sorted/main.go) |  Easy |
+| 114    | []() |  [Go]() |  Easy |
 
 
 
