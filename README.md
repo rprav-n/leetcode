@@ -127,7 +127,9 @@
 | 112    | [DI String Match](https://leetcode.com/problems/di-string-match/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/DI%20String%20Match/main.go) |  Easy |
 | 113    | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Delete%20Columns%20to%20Make%20Sorted/main.go) |  Easy |
 | 114    | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Integers%20by%20The%20Number%20of%201%20Bits/main.go) |  Easy |
-| 115    | []() |  [Go]() |  Easy |
+| 115    | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Array%20By%20Parity%20II/main.go) |  Easy |
+| 116    | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Common%20Words%20With%20One%20Occurrence/main.go) |  Easy |
+| 117    | []() |  [Go]() |  Easy |
 
 
 
