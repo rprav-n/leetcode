@@ -130,7 +130,8 @@
 | 115    | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Sort%20Array%20By%20Parity%20II/main.go) |  Easy |
 | 116    | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Common%20Words%20With%20One%20Occurrence/main.go) |  Easy |
 | 117    | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Pascal's%20Triangle/main.go) |  Easy |
-| 118    | []() |  [Go]() |  Easy |
+| 118    | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20the%20Distance%20Value%20Between%20Two%20Arrays/main.go) |  Easy |
+| 119    | []() |  [Go]() |  Easy |
 
 
 
