@@ -1,6 +1,6 @@
 // Author 		: Praveen
 // Date   		: 01/02/2023
-// Question 	: https://leetcode.com/problems/shortest-completing-word/description/
+// Question 	: https://leetcode.com/problems/shortest-completing-word/
 // Submission 	: https://leetcode.com/problems/shortest-completing-word/submissions/889548098/
 
 package main
