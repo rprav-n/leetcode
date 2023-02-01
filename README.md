@@ -132,7 +132,8 @@
 | 117    | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Pascal's%20Triangle/main.go) |  Easy |
 | 118    | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20the%20Distance%20Value%20Between%20Two%20Arrays/main.go) |  Easy |
 | 119    | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/main.go) |  Easy |
-| 120    | []() |  [Go]() |  Easy |
+| 120    | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Shortest%20Completing%20Word/main.go) |  Easy |
+| 121    | []() |  [Go]() |  Easy |
 
 
 
