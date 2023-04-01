@@ -134,7 +134,8 @@
 | 119    | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/main.go) |  Easy |
 | 120    | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Shortest%20Completing%20Word/main.go) |  Easy |
 | 121    | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Distinct%20Averages/main.go) |  Easy |
-| 122    | []() |  [Go]() |  Easy |
+| 122    | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) |  [Go](https://github.com/rprav-n/leetcode/tree/main/code/Array/Teemo%20Attacking) |  Easy |
+| 123    | []() |  [Go]() |  Easy |
 
 
 
