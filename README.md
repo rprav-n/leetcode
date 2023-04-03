@@ -136,7 +136,8 @@
 | 121    | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Number%20of%20Distinct%20Averages/main.go) |  Easy |
 | 122    | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) |  [Go](https://github.com/rprav-n/leetcode/tree/main/code/Array/Teemo%20Attacking) |  Easy |
 | 123    | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Rank%20Transform%20of%20an%20Array/main.go) |  Easy |
-| 124    | []() |  [Go]() |  Easy |
+| 124    | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Max%20Consecutive%20Ones/main.go) |  Easy |
+| 125    | []() |  [Go]() |  Easy |
 
 
 
