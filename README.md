@@ -137,7 +137,8 @@
 | 122    | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) |  [Go](https://github.com/rprav-n/leetcode/tree/main/code/Array/Teemo%20Attacking) |  Easy |
 | 123    | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Rank%20Transform%20of%20an%20Array/main.go) |  Easy |
 | 124    | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Max%20Consecutive%20Ones/main.go) |  Easy |
-| 125    | []() |  [Go]() |  Easy |
+| 125    | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/main.go) |  Easy |
+| 126    | []() |  [Go]() |  Easy |
 
 
 
