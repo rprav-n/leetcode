@@ -140,7 +140,8 @@
 | 125    | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/main.go) |  Easy |
 | 126    | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Left%20and%20Right%20Sum%20Differences/main.go) |  Easy |
 | 127    | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Monotonic%20Array/main.go) |  Easy |
-| 128    | []() |  [Go]() |  Easy |
+| 128    | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Pivot%20Index/main.go) |  Easy |
+| 129    | []() |  [Go]() |  Easy |
 
 
 
