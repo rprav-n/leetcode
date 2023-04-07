@@ -141,7 +141,9 @@
 | 126    | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Left%20and%20Right%20Sum%20Differences/main.go) |  Easy |
 | 127    | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Monotonic%20Array/main.go) |  Easy |
 | 128    | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Pivot%20Index/main.go) |  Easy |
-| 129    | []() |  [Go]() |  Easy |
+| 129    | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20the%20Array%20Concatenation%20Value/main.go) |  Easy |
+| 130    | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Take%20Gifts%20From%20the%20Richest%20Pile/main.go) |  Easy |
+| 131    | []() |  [Go]() |  Easy |
 
 
 
