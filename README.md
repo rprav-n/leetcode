@@ -144,7 +144,8 @@
 | 129    | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20the%20Array%20Concatenation%20Value/main.go) |  Easy |
 | 130    | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Take%20Gifts%20From%20the%20Richest%20Pile/main.go) |  Easy |
 | 131    | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Separate%20the%20Digits%20in%20an%20Array/main.go) |  Easy |
-| 132    | []() |  [Go]() |  Easy |
+| 132    | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range/main.go) |  Easy |
+| 133    | []() |  [Go]() |  Easy |
 
 
 
