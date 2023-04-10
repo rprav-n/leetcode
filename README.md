@@ -147,7 +147,8 @@
 | 132    | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range/main.go) |  Easy |
 | 133    | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Merge%20Two%202D%20Arrays%20by%20Summing%20Values/main.go) |  Easy |
 | 134    | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Relative%20Sort%20Array/main.go) |  Easy |
-| 135    | []() |  [Go]() |  Easy |
+| 135    | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Calculate%20Amount%20Paid%20in%20Taxes/main.go) |  Easy |
+| 136    | []() |  [Go]() |  Easy |
 
 
 
