@@ -149,8 +149,9 @@
 | 134    | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Relative%20Sort%20Array/main.go) |  Easy |
 | 135    | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Calculate%20Amount%20Paid%20in%20Taxes/main.go) |  Easy |
 | 136    | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Toeplitz%20Matrix/main.go) |  Easy |
-| 137    | [2549. Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Distinct%20Numbers%20on%20Board/main.go) |  Easy |
-| 138    | []() |  [Go]() |  Easy |
+| 137    | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Distinct%20Numbers%20on%20Board/main.go) |  Easy |
+| 138    | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Range%20Sum%20Query%20-%20Immutable/main.go) |  Easy |
+| 139    | []() |  [Go]() |  Easy |
 
 
 
