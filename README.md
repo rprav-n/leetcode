@@ -153,7 +153,8 @@
 | 138    | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Range%20Sum%20Query%20-%20Immutable/main.go) |  Easy |
 | 139    | [Count Elements With Strictly Smaller and Greater Elements ](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements%20/main.go) |  Easy |
 | 140    | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Find%20Subarrays%20With%20Equal%20Sum/main.go) |  Easy |
-| 141    | []() |  [Go]() |  Easy |
+| 141    | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Special%20Quadruplets/main.go) |  Easy |
+| 142    | []() |  [Go]() |  Easy |
 
 
 
