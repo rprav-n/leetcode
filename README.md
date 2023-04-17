@@ -156,7 +156,8 @@
 | 141    | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Count%20Special%20Quadruplets/main.go) |  Easy |
 | 142    | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Finding%203-Digit%20Even%20Numbers/main.go) |  Easy |
 | 143    | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Kth%20Missing%20Positive%20Number/main.go) |  Easy |
-| 144    | []() |  [Go]() |  Easy |
+| 144    | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Fair%20Candy%20Swap/main.go) |  Easy |
+| 145    | []() |  [Go]() |  Easy |
 
 
 
