@@ -168,6 +168,12 @@
 | \#  | Title  | Solution | Difficulty
 | :------------|:--------:| :-----|:-----|
 | 1   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Jewels%20and%20Stones/main.go) |  Easy |
+| 2   | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Goal%20Parser%20Interpretation/main.go) |  Easy |
+| 3   | []() |  [Go]() |  Easy |
+
+
+<br />
+<br />
 
 # License
 
