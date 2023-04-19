@@ -160,7 +160,14 @@
 | 145    | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/Array/Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array/main.go) |  Easy |
 
 
+<br />
+<br />
 
+### String
+
+| \#  | Title  | Solution | Difficulty
+| :------------|:--------:| :-----|:-----|
+| 1   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Jewels%20and%20Stones/main.go) |  Easy |
 
 # License
 
