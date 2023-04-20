@@ -169,7 +169,8 @@
 | :------------|:--------:| :-----|:-----|
 | 1   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Jewels%20and%20Stones/main.go) |  Easy |
 | 2   | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Goal%20Parser%20Interpretation/main.go) |  Easy |
-| 3   | []() |  [Go]() |  Easy |
+| 3   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Split%20a%20String%20in%20Balanced%20Strings/main.go) |  Easy |
+| 4   | []() |  [Go]() |  Easy |
 
 
 <br />
