@@ -172,7 +172,8 @@
 | 3   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Split%20a%20String%20in%20Balanced%20Strings/main.go) |  Easy |
 | 4   | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/main.go) |  Easy |
 | 5   | [Decode the Message](https://leetcode.com/problems/decode-the-message/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Decode%20the%20Message/main.go) |  Easy |
-| 6   | []() |  [Go]() |  Easy |
+| 6   | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Sorting%20the%20Sentence/main.go) |  Easy |
+| 7   | []() |  [Go]() |  Easy |
 
 
 <br />
