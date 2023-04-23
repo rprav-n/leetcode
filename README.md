@@ -174,7 +174,8 @@
 | 5   | [Decode the Message](https://leetcode.com/problems/decode-the-message/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Decode%20the%20Message/main.go) |  Easy |
 | 6   | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Sorting%20the%20Sentence/main.go) |  Easy |
 | 7   | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20the%20Sentence%20Is%20Pangram/main.go) |  Easy |
-| 8   | []() |  [Go]() |  Easy |
+| 8   | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Merge%20Strings%20Alternately/main.go) |  Easy |
+| 9   | []() |  [Go]() |  Easy |
 
 
 <br />
