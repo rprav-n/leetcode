@@ -164,6 +164,7 @@
 <br />
 
 ### String
+### String
 
 | \#  | Title  | Solution | Difficulty
 | :------------|:--------:| :-----|:-----|
@@ -176,7 +177,8 @@
 | 7   | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20the%20Sentence%20Is%20Pangram/main.go) |  Easy |
 | 8   | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Merge%20Strings%20Alternately/main.go) |  Easy |
 | 9   | [To Lower Case](https://leetcode.com/problems/to-lower-case/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/To%20Lower%20Case/main.go) |  Easy |
-| 10   | []() |  [Go]() |  Easy |
+| 10   | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Maximum%20Nesting%20Depth%20of%20the%20Parentheses/main.go) |  Easy |
+| 11   | []() |  [Go]() |  Easy |
 
 
 <br />
