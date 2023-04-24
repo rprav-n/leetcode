@@ -178,7 +178,8 @@
 | 8   | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Merge%20Strings%20Alternately/main.go) |  Easy |
 | 9   | [To Lower Case](https://leetcode.com/problems/to-lower-case/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/To%20Lower%20Case/main.go) |  Easy |
 | 10   | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Maximum%20Nesting%20Depth%20of%20the%20Parentheses/main.go) |  Easy |
-| 11   | []() |  [Go]() |  Easy |
+| 11   | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Count%20Asterisks/main.go) |  Easy |
+| 12   | []() |  [Go]() |  Easy |
 
 
 <br />
