@@ -180,7 +180,8 @@
 | 10   | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Maximum%20Nesting%20Depth%20of%20the%20Parentheses/main.go) |  Easy |
 | 11   | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Count%20Asterisks/main.go) |  Easy |
 | 12   | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reverse%20Words%20in%20a%20String%20III/main.go) |  Easy |
-| 13   | []() |  [Go]() |  Easy |
+| 13   | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Rings%20and%20Rods/main.go) |  Easy |
+| 14   | []() |  [Go]() |  Easy |
 
 
 <br />
