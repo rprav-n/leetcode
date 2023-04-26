@@ -181,7 +181,8 @@
 | 11   | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Count%20Asterisks/main.go) |  Easy |
 | 12   | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reverse%20Words%20in%20a%20String%20III/main.go) |  Easy |
 | 13   | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Rings%20and%20Rods/main.go) |  Easy |
-| 14   | []() |  [Go]() |  Easy |
+| 14   | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20Outermost%20Parentheses/main.go) |  Easy |
+| 15   | []() |  [Go]() |  Easy |
 
 
 <br />
