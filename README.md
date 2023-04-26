@@ -182,7 +182,8 @@
 | 12   | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reverse%20Words%20in%20a%20String%20III/main.go) |  Easy |
 | 13   | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Rings%20and%20Rods/main.go) |  Easy |
 | 14   | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20Outermost%20Parentheses/main.go) |  Easy |
-| 15   | []() |  [Go]() |  Easy |
+| 15   | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Replace%20All%20Digits%20with%20Characters/main.go) |  Easy |
+| 16   | []() |  [Go]() |  Easy |
 
 
 <br />
