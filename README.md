@@ -184,7 +184,8 @@
 | 14   | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20Outermost%20Parentheses/main.go) |  Easy |
 | 15   | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Replace%20All%20Digits%20with%20Characters/main.go) |  Easy |
 | 16   | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/main.go) |  Easy |
-| 17   | []() |  [Go]() |  Easy |
+| 17   | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/main.go) |  Easy |
+| 18   | []() |  [Go]() |  Easy |
 
 
 <br />
