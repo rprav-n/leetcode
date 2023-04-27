@@ -183,7 +183,8 @@
 | 13   | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Rings%20and%20Rods/main.go) |  Easy |
 | 14   | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20Outermost%20Parentheses/main.go) |  Easy |
 | 15   | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Replace%20All%20Digits%20with%20Characters/main.go) |  Easy |
-| 16   | []() |  [Go]() |  Easy |
+| 16   | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/main.go) |  Easy |
+| 17   | []() |  [Go]() |  Easy |
 
 
 <br />
