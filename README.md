@@ -187,7 +187,8 @@
 | 17   | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/main.go) |  Easy |
 | 18   | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reverse%20Prefix%20of%20Word/main.go) |  Easy |
 | 19   | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Determine%20Color%20of%20a%20Chessboard%20Square/main.go) |  Easy |
-| 20   | []() |  [Go]() |  Easy |
+| 20   | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Determine%20if%20String%20Halves%20Are%20Alike/main.go) |  Easy |
+| 21   | []() |  [Go]() |  Easy |
 
 
 <br />
