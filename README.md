@@ -189,7 +189,8 @@
 | 19   | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Determine%20Color%20of%20a%20Chessboard%20Square/main.go) |  Easy |
 | 20   | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Determine%20if%20String%20Halves%20Are%20Alike/main.go) |  Easy |
 | 21   | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/main.go) |  Easy |
-| 22   | []() |  [Go]() |  Easy |
+| 22   | [Destination City](https://leetcode.com/problems/destination-city/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Destination%20City/main.go) |  Easy |
+| 23   | []() |  [Go]() |  Easy |
 
 
 <br />
