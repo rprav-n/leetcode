@@ -192,7 +192,8 @@
 | 22   | [Destination City](https://leetcode.com/problems/destination-city/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Destination%20City/main.go) |  Easy |
 | 23   | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Increasing%20Decreasing%20String/main.go) |  Easy |
 | 24   | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reverse%20String/main.go) |  Easy |
-| 25   | []() |  [Go]() |  Easy |
+| 25   | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/main.go) |  Easy |
+| 26   | []() |  [Go]() |  Easy |
 
 
 <br />
