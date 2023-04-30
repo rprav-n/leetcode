@@ -191,7 +191,8 @@
 | 21   | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/main.go) |  Easy |
 | 22   | [Destination City](https://leetcode.com/problems/destination-city/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Destination%20City/main.go) |  Easy |
 | 23   | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Increasing%20Decreasing%20String/main.go) |  Easy |
-| 24   | []() |  [Go]() |  Easy |
+| 24   | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reverse%20String/main.go) |  Easy |
+| 25   | []() |  [Go]() |  Easy |
 
 
 <br />
