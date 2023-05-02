@@ -195,7 +195,8 @@
 | 25   | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/main.go) |  Easy |
 | 26   | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20Palindromic%20Subsequences/main.go) |  Easy |
 | 27   | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Robot%20Return%20to%20Origin/main.go) |  Easy |
-| 28   | []() |  [Go]() |  Easy |
+| 28   | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/First%20Letter%20to%20Appear%20Twice/main.go) |  Easy |
+| 29   | []() |  [Go]() |  Easy |
 
 
 <br />
