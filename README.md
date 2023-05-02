@@ -196,6 +196,7 @@
 | 26   | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20Palindromic%20Subsequences/main.go) |  Easy |
 | 27   | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Robot%20Return%20to%20Origin/main.go) |  Easy |
 | 28   | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/First%20Letter%20to%20Appear%20Twice/main.go) |  Easy |
+| 29   | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Percentage%20of%20Letter%20in%20String/main.go) |  Easy |
 | 29   | []() |  [Go]() |  Easy |
 
 
