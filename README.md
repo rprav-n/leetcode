@@ -198,7 +198,8 @@
 | 28   | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/First%20Letter%20to%20Appear%20Twice/main.go) |  Easy |
 | 29   | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Percentage%20of%20Letter%20in%20String/main.go) |  Easy |
 | 30   | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/main.go) |  Easy |
-| 31   | []() |  [Go]() |  Easy |
+| 31   | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/main.go) |  Easy |
+| 32   | []() |  [Go]() |  Easy |
 
 
 <br />
