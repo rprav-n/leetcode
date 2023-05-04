@@ -199,7 +199,8 @@
 | 29   | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Percentage%20of%20Letter%20in%20String/main.go) |  Easy |
 | 30   | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/main.go) |  Easy |
 | 31   | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/main.go) |  Easy |
-| 32   | []() |  [Go]() |  Easy |
+| 32   | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/main.go) |  Easy |
+| 33   | []() |  [Go]() |  Easy |
 
 
 <br />
