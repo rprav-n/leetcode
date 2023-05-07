@@ -201,7 +201,8 @@
 | 31   | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/main.go) |  Easy |
 | 32   | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/main.go) |  Easy |
 | 33   | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/main.go) |  Easy |
-| 34   | []() |  [Go]() |  Easy |
+| 34   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Fizz%20Buzz/main.go) |  Easy |
+| 35   | []() |  [Go]() |  Easy |
 
 
 <br />
