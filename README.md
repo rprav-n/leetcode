@@ -202,7 +202,8 @@
 | 32   | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/main.go) |  Easy |
 | 33   | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/main.go) |  Easy |
 | 34   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Fizz%20Buzz/main.go) |  Easy |
-| 35   | []() |  [Go]() |  Easy |
+| 35   | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Maximum%20Number%20of%20Words%20You%20Can%20Type/main.go) |  Easy |
+| 36   | []() |  [Go]() |  Easy |
 
 
 <br />
