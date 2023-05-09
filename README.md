@@ -204,7 +204,8 @@
 | 34   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Fizz%20Buzz/main.go) |  Easy |
 | 35   | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Maximum%20Number%20of%20Words%20You%20Can%20Type/main.go) |  Easy |
 | 36   | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20All%20A's%20Appears%20Before%20All%20B's/main.go) |  Easy |
-| 37   | []() |  [Go]() |  Easy |
+| 37   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20All%20Adjacent%20Duplicates%20In%20String/main.go) |  Easy |
+| 38   | []() |  [Go]() |  Easy |
 
 
 <br />
