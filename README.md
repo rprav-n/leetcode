@@ -206,7 +206,8 @@
 | 36   | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20All%20A's%20Appears%20Before%20All%20B's/main.go) |  Easy |
 | 37   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20All%20Adjacent%20Duplicates%20In%20String/main.go) |  Easy |
 | 38   | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/main.go) |  Easy |
-| 39   | []() |  [Go]() |  Easy |
+| 39   | [Goat Latin](https://leetcode.com/problems/goat-latin/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Goat%20Latin/main.go) |  Easy |
+| 40   | []() |  [Go]() |  Easy |
 
 
 <br />
