@@ -208,7 +208,8 @@
 | 38   | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/main.go) |  Easy |
 | 39   | [Goat Latin](https://leetcode.com/problems/goat-latin/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Goat%20Latin/main.go) |  Easy |
 | 40   | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/main.go) |  Easy |
-| 41   | []() |  [Go]() |  Easy |
+| 41   | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Uncommon%20Words%20from%20Two%20Sentences/main.go) |  Easy |
+| 42   | []() |  [Go]() |  Easy |
 
 
 <br />
