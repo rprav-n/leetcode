@@ -210,7 +210,8 @@
 | 40   | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/main.go) |  Easy |
 | 41   | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Uncommon%20Words%20from%20Two%20Sentences/main.go) |  Easy |
 | 42   | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Calculate%20Digit%20Sum%20of%20a%20String/main.go) |  Easy |
-| 43   | []() |  [Go]() |  Easy |
+| 43   | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Count%20Vowel%20Substrings%20of%20a%20String/main.go) |  Easy |
+| 44   | []() |  [Go]() |  Easy |
 
 
 <br />
