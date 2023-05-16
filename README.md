@@ -211,7 +211,8 @@
 | 41   | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Uncommon%20Words%20from%20Two%20Sentences/main.go) |  Easy |
 | 42   | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Calculate%20Digit%20Sum%20of%20a%20String/main.go) |  Easy |
 | 43   | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Count%20Vowel%20Substrings%20of%20a%20String/main.go) |  Easy |
-| 44   | []() |  [Go]() |  Easy |
+| 44   | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Divide%20a%20String%20Into%20Groups%20of%20Size%20k/main.go) |  Easy |
+| 45   | []() |  [Go]() |  Easy |
 
 
 <br />
