@@ -1,7 +1,7 @@
 // Author 		: Praveen
 // Date   		: 15/05/2023
 // Question 	: https://leetcode.com/problems/count-vowel-substrings-of-a-string/
-// Submission 	:
+// Submission 	: https://leetcode.com/problems/count-vowel-substrings-of-a-string/submissions/951567093/
 
 package main
 
