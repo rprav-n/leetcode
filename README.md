@@ -214,7 +214,8 @@
 | 44   | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Divide%20a%20String%20Into%20Groups%20of%20Size%20k/main.go) |  Easy |
 | 45   | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/submissions/953501644/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Count%20Binary%20Substrings/main.go) |  Easy |
 | 46   | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reformat%20Phone%20Number/main.go) |  Easy |
-| 47   | []() |  [Go]() |  Easy |
+| 47   | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Minimum%20Number%20of%20Operations%20to%20Convert%20Time/main.go) |  Easy |
+| 48   | []() |  [Go]() |  Easy |
 
 
 <br />
