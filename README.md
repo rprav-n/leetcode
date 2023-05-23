@@ -216,7 +216,8 @@
 | 46   | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reformat%20Phone%20Number/main.go) |  Easy |
 | 47   | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Minimum%20Number%20of%20Operations%20to%20Convert%20Time/main.go) |  Easy |
 | 48   | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Crawler%20Log%20Folder/main.go) |  Easy |
-| 49   | []() |  [Go]() |  Easy |
+| 49   | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/main.go) |  Easy |
+| 50   | []() |  [Go]() |  Easy |
 
 
 <br />
