@@ -220,7 +220,8 @@
 | 50   | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/main.go) |  Easy |
 | 51   | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Occurrences%20After%20Bigram/main.go) |  Easy |
 | 52   | [Reformat Date](https://leetcode.com/problems/reformat-date/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reformat%20Date/main.go) |  Easy |
-| 53   | []() |  [Go]() |  Easy |
+| 53   | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Make%20The%20String%20Great/main.go) |  Easy |
+| 54   | []() |  [Go]() |  Easy |
 
 
 <br />
