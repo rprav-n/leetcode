@@ -222,7 +222,8 @@
 | 52   | [Reformat Date](https://leetcode.com/problems/reformat-date/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reformat%20Date/main.go) |  Easy |
 | 53   | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Make%20The%20String%20Great/main.go) |  Easy |
 | 54   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Valid%20Anagram/main.go) |  Easy |
-| 55   | []() |  [Go]() |  Easy |
+| 55   | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Capitalize%20the%20Title/main.go) |  Easy |
+| 56   | []() |  [Go]() |  Easy |
 
 
 <br />
