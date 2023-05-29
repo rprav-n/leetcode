@@ -223,7 +223,8 @@
 | 53   | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Make%20The%20String%20Great/main.go) |  Easy |
 | 54   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Valid%20Anagram/main.go) |  Easy |
 | 55   | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Capitalize%20the%20Title/main.go) |  Easy |
-| 56   | []() |  [Go]() |  Easy |
+| 56   | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Excel%20Sheet%20Column%20Number/main.go) |  Easy |
+| 57   | []() |  [Go]() |  Easy |
 
 
 <br />
