@@ -227,7 +227,8 @@
 | 57   | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Sum%20of%20Digits%20of%20String%20After%20Convert/main.go) |  Easy |
 | 58   | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Consecutive%20Characters/main.go) |  Easy |
 | 59   | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reverse%20Only%20Letters/main.go) |  Easy |
-| 60   | []() |  [Go]() |  Easy |
+| 60   | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Minimize%20String%20Length/main.go) |  Easy |
+| 61   | []() |  [Go]() |  Easy |
 
 
 <br />
