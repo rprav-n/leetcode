@@ -228,7 +228,8 @@
 | 58   | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Consecutive%20Characters/main.go) |  Easy |
 | 59   | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Reverse%20Only%20Letters/main.go) |  Easy |
 | 60   | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Minimize%20String%20Length/main.go) |  Easy |
-| 61   | []() |  [Go]() |  Easy |
+| 61   | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Maximum%20Number%20of%20Balloons/main.go) |  Easy |
+| 62   | []() |  [Go]() |  Easy |
 
 
 <br />
