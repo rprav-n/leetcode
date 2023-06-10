@@ -230,7 +230,8 @@
 | 60   | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Minimize%20String%20Length/main.go) |  Easy |
 | 61   | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Maximum%20Number%20of%20Balloons/main.go) |  Easy |
 | 62   | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/First%20Unique%20Character%20in%20a%20String/main.go) |  Easy |
-| 63   | []() |  [Go]() |  Easy |
+| 63   | [Find the Difference](https://leetcode.com/problems/find-the-difference/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Find%20the%20Difference/main.go) |  Easy |
+| 64   | []() |  [Go]() |  Easy |
 
 
 <br />
