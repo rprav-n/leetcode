@@ -233,7 +233,8 @@
 | 63   | [Find the Difference](https://leetcode.com/problems/find-the-difference/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Find%20the%20Difference/main.go) |  Easy |
 | 64   | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Largest%203-Same-Digit%20Number%20in%20String/main.go) |  Easy |
 | 65   | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Circular%20Sentence/main.go) |  Easy |
-| 66   | []() |  [Go]() |  Easy |
+| 66   | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20Trailing%20Zeros%20From%20a%20String/main.go) |  Easy |
+| 67   | []() |  [Go]() |  Easy |
 
 
 <br />
