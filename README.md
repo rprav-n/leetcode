@@ -234,7 +234,8 @@
 | 64   | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Largest%203-Same-Digit%20Number%20in%20String/main.go) |  Easy |
 | 65   | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Circular%20Sentence/main.go) |  Easy |
 | 66   | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20Trailing%20Zeros%20From%20a%20String/main.go) |  Easy |
-| 67   | []() |  [Go]() |  Easy |
+| 67   | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/main.go) |  Easy |
+| 68   | []() |  [Go]() |  Easy |
 
 
 <br />
