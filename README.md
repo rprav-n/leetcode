@@ -236,7 +236,8 @@
 | 66   | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Remove%20Trailing%20Zeros%20From%20a%20String/main.go) |  Easy |
 | 67   | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/main.go) |  Easy |
 | 68   | [Ransom Note](https://leetcode.com/problems/ransom-note/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Ransom%20Note/main.go) |  Easy |
-| 69   | []() |  [Go]() |  Easy |
+| 69   | [Detect Capital](https://leetcode.com/problems/detect-capital/) |  [Go](https://github.com/rprav-n/leetcode/blob/main/code/String/Detect%20Capital/main.go) |  Easy |
+| 70   | []() |  [Go]() |  Easy |
 
 
 <br />
